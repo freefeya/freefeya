@@ -2,7 +2,7 @@
 - 👀 I’m interested in farm automation
 - 🌱 I’m currently learning skillfactory.ru
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me @freefeya, freefeya@yandex.ru, freefeya@gmail.com
+- 📫 How to reach me telegram @freefeya, freefeya@yandex.ru, freefeya@gmail.com
 
 <!---
 freefeya/freefeya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
