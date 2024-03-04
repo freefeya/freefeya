@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @freefeya
 - 👀 I’m interested in farm automation
-- 🌱 I’m currently learning skillfactory.ru
+- 🌱 I’m currently learning gb.ru
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me telegram @freefeya, freefeya@yandex.ru, freefeya@gmail.com
 
